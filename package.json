@@ -1,0 +1,25 @@
+{
+  "name": "vanethy",
+  "version": "0.0.1",
+  "description": "Vanity account addresses creation for Ethereum or other EVM chains",
+  "main": "lib/vanethy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prcolaco/vanethy.git"
+  },
+  "keywords": [
+    "ethers",
+    "ethereum",
+    "vanity",
+    "address"
+  ],
+  "author": "prc <prcolaco@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prcolaco/vanethy/issues"
+  },
+  "homepage": "https://github.com/prcolaco/vanethy"
+}
