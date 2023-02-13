@@ -1,7 +1,7 @@
 {
   "name": "vanethy",
-  "version": "0.0.1",
-  "description": "Vanity account addresses creation for Ethereum or other EVM chains",
+  "version": "0.0.2",
+  "description": "Vanity account addresses creation CLI tool for Ethereum or other EVM chains",
   "bin": "./lib/vanethy.js",
   "main": "./lib/vanethy.js",
   "scripts": {
@@ -15,7 +15,8 @@
     "ethers",
     "ethereum",
     "vanity",
-    "address"
+    "address",
+    "CLI"
   ],
   "author": "prc <prcolaco@gmail.com>",
   "license": "MIT",
