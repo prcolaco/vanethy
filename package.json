@@ -1,6 +1,6 @@
 {
   "name": "vanethy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Vanity account addresses creation CLI tool for Ethereum or other EVM chains",
   "bin": "./lib/vanethy.js",
   "main": "./lib/vanethy.js",

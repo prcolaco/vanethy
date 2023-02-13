@@ -1,5 +1,5 @@
 # vanethy
-Vanity account addresses creation for Ethereum or other EVM chains
+Vanity account addresses creation CLI tool for Ethereum or other EVM chains
 
 ## Installation
 
@@ -13,7 +13,7 @@ npm install -g vanethy
 % vanethy --help
 Usage: vanethy [options] <prefix...>
 
-Vanity account addresses creation for Ethereum or other EVM chains
+Vanity account addresses creation CLI tool for Ethereum or other EVM chains
 
 Arguments:
   prefix             vanity prefixes to search for, like 123 or 0x123
